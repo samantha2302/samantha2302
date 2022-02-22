@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<span> 
+
+ <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=samantha2302&show_icons=true&theme=radical&line_height=33.5">
+   
+ <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samantha2302&hide=css,html&theme=tokyonight">
+
+</span>
+
 <!--
 **samantha2302/samantha2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
