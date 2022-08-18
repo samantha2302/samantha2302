@@ -1,6 +1,6 @@
 ### Ashley Samantha Acuña Montero
  
- * Estudiante de Ingeniería en Computación en Tecnológico de Costa Rica (TEC)
+ * Estudiante de Ingeniería en Computación en Tecnológico de Costa Rica (ITEC)
 
 
 <span> 
