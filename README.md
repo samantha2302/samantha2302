@@ -1,4 +1,4 @@
-# 🌸 Ashley Samantha Acuña Montero
+<h3 align="center">🌸 Ashley Samantha Acuña Montero</h3>
 
 <h3 align="center">Fullstack & Mobile Developer • AI Enthusiast</h3>
 
